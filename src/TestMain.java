@@ -9,6 +9,8 @@ public class TestMain {
 		
 		Test1 t1 = new Test1();
 		t1.funtiona1();
+		t2.funtiona2();
+		
 	}
 
 }
